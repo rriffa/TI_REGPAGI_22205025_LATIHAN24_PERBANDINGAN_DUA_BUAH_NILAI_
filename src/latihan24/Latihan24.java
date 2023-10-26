@@ -12,6 +12,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Membuat Program dua buah nilai yang inputannya berasal dari user.
  */
 public class Latihan24 {
 
